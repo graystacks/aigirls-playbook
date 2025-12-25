@@ -1,0 +1,2 @@
+# aigirls-playbook
+internal notes
