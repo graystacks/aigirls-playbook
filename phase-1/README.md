@@ -58,7 +58,7 @@ Bad reference images will ruin your model permanently.
 
 I’ve included ready-made reference examples you can use immediately.
 
-👉 **Use these if you don’t trust yourself yet**
+👉 https://github.com/graystacks/aigirls-playbook/blob/6c76d2b4bc782542ad04ca9a3279e5cae2c67d8d/reference-example-2.jpg
 
 ---
 
